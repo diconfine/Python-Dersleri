@@ -1,2 +1,3 @@
 github kur ve git indirmeyi unutma 
 ms studio kur tema dosyası indir (vs code icon)
+push yükleme pull alma 
